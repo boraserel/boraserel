@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **VueJS & Unity**
 
-- 📫 How to reach me **boraserel@gmail.com**
-
-- 📄 Know about my experiences [boraserel.co/cv](boraserel.co/cv)
+- 📫 How to reach me **bora@boraserel.co**
 
 
 <h3 align="left">Languages and Tools:</h3>
