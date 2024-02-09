@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borahan</h1>
-<h3 align="center">Senior Computer Engineering Student @ TOBB ETU</h3>
+<h3 align="center">Fresh Graduate from TOBB ETU Computer Engineering</h3>
+<h3 align="center">Frontend Dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boraserel&label=Profile%20views&color=0e75b6&style=flat" alt="boraserel" /> </p>
 
